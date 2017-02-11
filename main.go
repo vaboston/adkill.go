@@ -1,3 +1,4 @@
+//inspired by this script https://raw.githubusercontent.com/penthium2/adkill/master/adkill.sh
 package main
 
 import (
