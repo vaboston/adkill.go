@@ -1,0 +1,1 @@
+# adkill.go
