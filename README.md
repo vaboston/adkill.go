@@ -1,4 +1,4 @@
-# Adkill.go - Kill Ads without browser extension, Compilable for Windows, Linux and Mac -
+# Adkill.go - Kill Ads without browser extension for Windows, Linux and Mac -
 - Version :1.0
 - Author : vaboston
 - Release date : 13-02-2017
