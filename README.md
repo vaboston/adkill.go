@@ -30,3 +30,4 @@ Adkill creates ~/public directory then
 
 # To Do :
  - garder les anciennes lignes générées par Adkill
+ - checker si les téléchargements se sont bien effectués
