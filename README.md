@@ -28,3 +28,5 @@ Adkill creates ~/public directory then
 - backs up original /etc/hosts file named : **hosts-system**
 
 
+# To Do :
+ - garder les anciennes lignes générées par Adkill
