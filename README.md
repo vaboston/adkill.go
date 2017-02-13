@@ -4,10 +4,10 @@
 - Release date : 13-02-2017
 - licence : GNU GPL V.3
 
-Inspired by original adkill from penthium2 https://github.com/penthium2/adkill).
+Inspired by  adkill from penthium2 https://github.com/penthium2/adkill).
 
-This script generates a powerful Hosts file for linux by merging 5 lists of advertisement references.
-More than 350 000 hosts Banned.
+This script generates a powerful Hosts file for linux, windows and mac by merging 5 lists of advertisement references.
+More than 600 000 hosts Banned.
 # Usage :
 Just run the script or add some options :
 - ats : activate blacklist of ad/tracking servers listed in the hpHosts database.
