@@ -24,7 +24,7 @@ Just run the script or add some options :
 - all : activate blacklist of all sites listed in the hpHosts database.
 
 
-Adkill creates ~/.adkill directory then
+Adkill creates ~/public directory then
 - backs up original /etc/hosts file named : **hosts-system**
 
 
