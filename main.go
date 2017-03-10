@@ -144,7 +144,6 @@ func usineAGaz(pathHosts, pathDownload string) {
 	}
 	if alreadyKill == false {
 		// First passage
-		fmt.Println("=========First passage of adkill=============")
 		var oldHosts []string
 		for _, str := range linesHosts {
 			r := strings.FieldsFunc(str, f)
@@ -168,10 +167,7 @@ func usineAGaz(pathHosts, pathDownload string) {
 			result = append(result, oldHosts[index])
 		}
 		result = append(result, header)
-		fmt.Println("taille du tableau linesdownload : ")
-		fmt.Println(len(linesDownload))
-		fmt.Println("taille du tableau doNatAdd : ")
-		fmt.Println(len(dontAdd))
+
 		// var newCont []string
 		fmt.Println("Adding downloaded content : ")
 		for index := 0; index < len(linesDownload); index++ {
@@ -229,11 +225,7 @@ func usineAGaz(pathHosts, pathDownload string) {
 			}
 		}
 		var newCont []string
-		fmt.Println("Adding content ")
-		fmt.Println("taille de linesFownlaod")
-		fmt.Println(len(linesDownload))
-		fmt.Println("taille de dontAdd")
-		fmt.Println(len(dontAdd))
+
 		// we check il adding line is not in unbaned array
 		for index := 0; index < len(linesDownload); index++ {
 			r := strings.FieldsFunc(linesDownload[index], f)
